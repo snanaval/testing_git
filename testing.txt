@@ -1,1 +1,2 @@
-Hey this is the initial commit of master
+Hey this is the initial commit of master.
+These are few more changes to the file and adding another file ginger.txt in master
